@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://vigilant-stonebraker-85a1ea.netlify.com/* http://behsagallery.ir/:splat 301!

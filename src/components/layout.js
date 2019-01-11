@@ -1,5 +1,5 @@
 import React from 'react'
-import '../assets/scss/main.scss'
+import '../assets/scss/main.rtl.css'
 
 import Header from './Header'
 
@@ -9,8 +9,8 @@ class Template extends React.Component {
 
         return (
             <div>
-                <Header />
                 {children}
+                <Header />
             </div>
         )
     }
